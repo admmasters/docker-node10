@@ -1,5 +1,5 @@
 # docker-node10 #
-## A largely compatible node 10 alpine base image baked to respond to vulnerabilities ##
+## A largely compatible node 10 alpine base image baked to respond to vulnerabilities - based on alpine 3.10 ##
 
 As node-alpine is still using alpine 3.9 - the base image is vulnerable -
 [CVE-2019-14697](https://github.com/alpinelinux/docker-alpine/issues/34).
